@@ -1,6 +1,7 @@
 ## Climate Change Modelling 
 
 
+<img width="2048" height="1466" alt="climate" src="https://github.com/user-attachments/assets/7cd8f8b3-c13a-4cc0-9973-683a0c570d38" />
 
 
 
